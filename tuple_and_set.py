@@ -14,3 +14,4 @@ print(numbers)
 print(a & b)  # 교집합: {3}
 print(a | b)  # 합집합: {1, 2, 3, 4, 5}
 print(a - b)  # 차집합: {1, 2}
+print(type(colors))
