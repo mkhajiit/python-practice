@@ -7,4 +7,4 @@
 1. 하루에 2문제씩 파이썬으로 코딩테스트 문제 풀이
 2. cypress 와 selenium 비교해보기
 3. 간단한 테스트 케이스 작성해보기
-4. selenium 바로 시작
+4. webdriver-manager 라이브러리 사용해보기
